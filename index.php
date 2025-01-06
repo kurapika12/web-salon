@@ -6,3 +6,5 @@
     <h1>Selamat Datang di Salon Zahra</h1>
     <p>Reservasi sekarang untuk mendapatkan layanan terbaik kami.</p>
 </div>
+
+

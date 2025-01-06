@@ -1,7 +1,12 @@
 body {
-    background-color: #f8f9fa;
+    background-color: #f8f9fa; /* Warna latar belakang */
+    background-image: url('images/bg.jpg'); /* Gambar latar belakang */
+    background-size: cover; /* Menyebar gambar agar menutupi seluruh layar */
+    background-position: center; /* Menjaga gambar tetap di tengah */
+    background-attachment: fixed; /* Membuat gambar latar tetap saat scroll */
     font-family: Arial, sans-serif;
 }
+
 
 footer {
     position: relative;
